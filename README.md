@@ -1,2 +1,2 @@
 # mautic-smsru
-Mautic SMS.ru plugin
+Mautic SMS.ru integration plugin
